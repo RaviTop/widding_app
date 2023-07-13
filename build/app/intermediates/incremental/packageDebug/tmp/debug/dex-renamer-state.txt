@@ -1,0 +1,4 @@
+#Wed Jul 12 23:30:29 IST 2023
+base.0=C\:\\Users\\ravi\\Desktop\\Flutter_project\\widding_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
